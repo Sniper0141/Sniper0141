@@ -2,6 +2,7 @@
 
 I am a ...
 - 🎓 Junior Developer
-- 🏢 proud co-owner of **[Prataì & Co](https://github.com/Pratai-Co)**
+- 🏢 Proud co-owner of **[Prataì & Co](https://github.com/Pratai-Co)**
+- Helicopter
 
 Here though, you will find mostly school projects, nothing special really.
